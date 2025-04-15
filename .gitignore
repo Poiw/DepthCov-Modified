@@ -8,3 +8,4 @@ dist
 lietorch
 profile.html
 profile.json
+*.pyd
